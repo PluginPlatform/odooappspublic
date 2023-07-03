@@ -1,0 +1,2 @@
+# odooappspublic
+odoo apps public
